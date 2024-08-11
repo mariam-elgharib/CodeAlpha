@@ -1,0 +1,3 @@
+﻿  Task-1.cpp
+C:\Users\Marium\Desktop\Task-1\Task-1\Task-1.cpp(32,29): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Task-1.vcxproj -> C:\Users\Marium\Desktop\Task-1\x64\Debug\Task-1.exe
